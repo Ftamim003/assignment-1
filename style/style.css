@@ -360,3 +360,8 @@ nav ul li{
 .icons-img{
     text-decoration: none;
 }
+
+
+nav ul li a{
+font-size: 25px;
+}
